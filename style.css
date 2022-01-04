@@ -111,6 +111,7 @@ span.profile-name {
 
 
 .middel-main-content {
+    width: 60%;
     background-image: url(images/wallpaperflare\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
