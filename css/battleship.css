@@ -1,0 +1,23 @@
+.middel-main-content2 {
+    background-image: url(images/wallpaperflare\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 3%;
+    color: white;
+    border-radius: 40px;
+}
+.middel-main-content2 h2 {
+    font-size: 40px;
+    text-shadow: 2px 2px 0px blue;
+    margin-top: 22%;
+}
+.middel-main-content2 p {
+    width: 40%;
+    font-size: 24px;
+    line-height: 28px;
+}
+.middel-main-content2 span {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
