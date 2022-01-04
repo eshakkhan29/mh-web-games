@@ -1,0 +1,43 @@
+.middel-main-content5 {
+    width: 60%;
+    background-image: url(../images/wallpaperflare\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 4%;
+    color: white;
+    border-radius: 40px;
+}
+.middel-main-content5 h2 {
+    font-size: 40px;
+    text-shadow: 2px 2px 0px #008eb98c;
+    margin-top: 22%;
+}
+.middel-main-content5 p {
+    width: 40%;
+    font-size: 24px;
+    line-height: 28px;
+}
+.middel-main-content5 span {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+a.buyNow-btn {
+    text-decoration: none;
+    color: black;
+    background-color: #C4C4C4;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 17px;
+}
+
+
+.right-games-list a {
+    width: 80%;
+    text-decoration: none;
+    background-color: #6e6e6e;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
