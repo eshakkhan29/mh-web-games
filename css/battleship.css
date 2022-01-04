@@ -1,5 +1,5 @@
 .middel-main-content2 {
-    background-image: url(images/wallpaperflare\ 2.png);
+    background-image: url(../images/wallpaperflare\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-left: 3%;
@@ -20,4 +20,23 @@
     display: block;
     font-size: 24px;
     margin-bottom: 20px;
+}
+a.buyNow-btn {
+    text-decoration: none;
+    color: black;
+    background-color: #C4C4C4;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 17px;
+}
+
+
+.right-games-list a {
+    width: 80%;
+    text-decoration: none;
+    background-color: #6e6e6e;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
 }
