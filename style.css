@@ -163,6 +163,10 @@ a.buyNow-btn {
     padding: 5px 10px;
     margin-bottom: 10px;
     border-radius: 5px;
+    transition: all .3s ease;
+}
+.right-games-list a:hover{
+    background-color: #383838;
 }
 .games-manu {
     display: flex;
