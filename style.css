@@ -175,6 +175,7 @@ a.buyNow-btn {
 .right-games-list a:nth-child(1){
     border-radius: 10px;
     padding: 5px 5px;
+    
 }
 .right-games-list a:nth-child(1):hover{
     background: #999999;
