@@ -31,13 +31,3 @@ a.buyNow-btn {
     padding: 10px 50px;
     border-radius: 17px;
 }
-
-
-.right-games-list a {
-    width: 80%;
-    text-decoration: none;
-    background-color: #6e6e6e;
-    padding: 5px 10px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-}
